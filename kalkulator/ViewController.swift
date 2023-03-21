@@ -6,7 +6,7 @@
 //
 
 import UIKit
-
+let a  = 10
 class ViewController: UIViewController {
 
     var firstNum : Double = 0
